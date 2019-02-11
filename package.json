@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-backend-exercise",
+  "version": "1.0.0",
+  "description": "Backend exercises for the fullstack 2019 course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoxWave/fullstack-backend-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoxWave/fullstack-backend-exercise/issues"
+  },
+  "homepage": "https://github.com/VoxWave/fullstack-backend-exercise#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
